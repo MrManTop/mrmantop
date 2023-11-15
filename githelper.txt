@@ -1,0 +1,17 @@
+git config --global user.name "mrmantop"
+
+git config --global user.emale imil.mansurov.mi@gmail.com
+
+git init Сканер по папке 
+
+git add . Добавляет ветку 
+
+git commit -m "Название Commit"  Сохранение и изменение на ветке 
+
+git remote -v  подключение к удл репозиторию
+
+git remote add origin Htpp сыллка на репозиторий 
+
+git push -u origin main Залить на гит
+
+git clone вытянуть 
